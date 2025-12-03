@@ -23,7 +23,7 @@ Here is how we define the cells:
 
 Following is the correct formula for `R squared` "co-efficient of determination":
 
-<img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
+<img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/2250d27e9221488a2c5fdd987cd5b46e4092af20/Errata%20image/Rsquared.png">
 
 
 
