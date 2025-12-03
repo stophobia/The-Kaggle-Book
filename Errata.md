@@ -25,6 +25,8 @@ Following is the correct formula for `R squared` "co-efficient of determination"
 
 <img src="https://github.com/PacktPublishing/The-Kaggle-Book/blob/main/Errata image/Rsquared.png">
 
+
+
 ## Chapter 05, Page no 121, correct reference to the panel in an image
 
 The first paragraph says: "A bad classifier can be spotted by the ROC curve appearing very similar, if not identical, to the diagonal of the chart, which represents the performance of a purely random classifier, as in the top right of Figure 5.3; ROC-AUC scores near 0.5 are considered to be almost random results."
